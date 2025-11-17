@@ -10,4 +10,10 @@ Hi!, Welcome to the **Retail Analytics Project**! This project explores and anal
 
 #  📊 Project Overview
 
-This case study focuses on a retail company that has encountered challenges in understanding it's sales performance, customer engagement and inventory management. Through a comprenhensive data analysis approach, the company aims
+This case study focuses on a retail company that has encountered challenges in understanding it's sales performance, customer engagement and inventory management. Through a comprenhensive data analysis approach, the company aims to identify high and low sales product. 
+
+---
+
+# 📑 DataSet 
+
+The Retail Company has observed stagnant growth and 
